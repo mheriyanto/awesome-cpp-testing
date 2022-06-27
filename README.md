@@ -4,7 +4,6 @@ Collection of awesome C/C++ resources for testing.
 Inspired by [awesome-python-testing](https://github.com/cleder/awesome-python-testing)
 
 - [Assertions](#assertions)
-- [TDD/ATDD/BDD](#behavior-driven-development)
 - [Code Coverage](#code-coverage)
 - [Design by Contract](#design-by-contract)
 - [Load Testing](#load-testing)
@@ -12,9 +11,9 @@ Inspired by [awesome-python-testing](https://github.com/cleder/awesome-python-te
 - [Mutation Testing](#mutation-testing)
 - [Object Factories](#object-factories)
 - [Penetration Testing](#penetration-testing)
+- [Performance Testing](#performance-testing)
 - [Property Based Testing](#property-based-testing)
 - [Rest API Testing](#rest-api-testing)
-- [Speed](#speed)
 - [Static Checks](#static-checks)
 - [Test Runners](#test-runners)
 - [Testing Frameworks](#testing-frameworks)
@@ -24,10 +23,6 @@ Inspired by [awesome-python-testing](https://github.com/cleder/awesome-python-te
     - [Related](#related)
 
 ## Assertions
-
-- Bla-bla.
-
-## TDD/ATDD/BDD
 
 - Bla-bla.
 
@@ -48,7 +43,8 @@ Inspired by [awesome-python-testing](https://github.com/cleder/awesome-python-te
 
 ## Mock and Stub
 
-- Bla-bla.
+- [CppUTest](https://github.com/cpputest/cpputest) - unit testing and mocking framework for C/C++.
+- [mockcpp](https://github.com/sinojelly/mockcpp) - a jmock-like generic C/C++ Mock Framework, which doesn't use complex template technique which will result in very heavy compiling overhead.
 
 ## Mutation Testing
 
@@ -62,15 +58,15 @@ Inspired by [awesome-python-testing](https://github.com/cleder/awesome-python-te
 
 - Bla-bla.
 
+## Performance Testing
+
+- [sltbench](https://github.com/ivafanas/sltbench) - C++ benchmark tool. Practical, stable and fast performance testing framework.
+
 ## Property Based Testing
 
 - Bla-bla.
 
 ## Rest API Testing
-
-- Bla-bla.
-
-## Speed
 
 - Bla-bla.
 
@@ -94,6 +90,7 @@ Inspired by [awesome-python-testing](https://github.com/cleder/awesome-python-te
 * [Googletest](https://github.com/google/googletest) - Google Testing and Mocking Framework.
 * [Mull](https://github.com/mull-project/mull) - Practical mutation testing tool for C and C++
 * [rapidcheck](https://github.com/emil-e/rapidcheck) - QuickCheck clone for C++.
+* [µTest](https://github.com/tymonx/utest) - Lightweight unit testing framework mainly for C++ and also for C projects. 
 
 ## UI Testing
 
