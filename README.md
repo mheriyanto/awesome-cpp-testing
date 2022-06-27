@@ -3,8 +3,6 @@ Collection of awesome C++ resources for testing.
 
 Inspired by [awesome-python-testing](https://github.com/cleder/awesome-python-testing)
 
-## Contents
-
 - [Assertions](#assertions)
 - [Behavior-driven Development](#behavior-driven-development)
 - [Code Coverage](#code-coverage)
@@ -35,7 +33,10 @@ Inspired by [awesome-python-testing](https://github.com/cleder/awesome-python-te
 
 ## Code Coverage
 
-- Bla-bla.
+- [Bullseye Coverage](https://www.bullseye.com/whatsNew.html#8_13) - is a code analyzer for C and C++ that evaluates how much of your source code was tested.
+- [FrogLogic Coco](https://doc.froglogic.com/squish-coco/latest) - Coco tests code coverage for C, C++, C# and Tcl code.
+- [Intel C++ Compiler 15.0](https://www.intel.com/content/www/us/en/developer/tools/documentation.html) - displays dynamic execution counts for each basic block of the application, provides differential coverage data, and presents code coverage information visually with a customizable coloring scheme.
+- [Testwell CTC++](https://www.testwell.fi/ctcdesc.html) - is a code coverage tool for C, C+, Java, and C#.
 
 ## Design by Contract
 
@@ -43,7 +44,7 @@ Inspired by [awesome-python-testing](https://github.com/cleder/awesome-python-te
 
 ## Load Testing
 
-- Bla-bla.
+- [Parasoft Jtest](https://parasoft.force.com) - provides a suite of testing tools for a variety of purposes like load testing, security testing, and more.
 
 ## Mock and Stub
 
@@ -83,7 +84,16 @@ Inspired by [awesome-python-testing](https://github.com/cleder/awesome-python-te
 
 ## Testing Frameworks
 
-- Bla-bla.
+* [Approval Tests for C++](https://github.com/approvals/ApprovalTests.cpp) - Native ApprovalTests for C++ on Linux, Mac and Windows.
+* [autocheck](https://github.com/thejohnfreeman/autocheck) - QuickCheck and SmallCheck clones for C++.
+* [Bandit](https://banditcpp.github.io/bandit/) - A header-only framework for C++11 that wants to make working with unit tests a pleasant experience.
+* [Boost.Test](https://www.boost.org/doc/libs/1_70_0/libs/test/doc/html/index.html) - Boost testing framework.
+* [Catch](https://github.com/catchorg/Catch2) - A modern, C++-native, header-only, framework for unit-tests, TDD and BDD.
+* [doctest](https://github.com/onqtam/doctest) - The fastest feature-rich C++11/14/17/20 single-header testing framework for unit tests and TDD.
+* [Fakeit](https://github.com/eranpeer/FakeIt) - C++ mocking made easy. A simple yet very expressive, headers only library for c++ mocking.
+* [Googletest](https://github.com/google/googletest) - Google Testing and Mocking Framework.
+* [Mull](https://github.com/mull-project/mull) - Practical mutation testing tool for C and C++
+* [rapidcheck](https://github.com/emil-e/rapidcheck) - QuickCheck clone for C++.
 
 ## UI Testing
 
