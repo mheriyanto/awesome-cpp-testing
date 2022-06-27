@@ -1,10 +1,10 @@
 # Awesome C++ Testing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-Collection of awesome C++ resources for testing.
+Collection of awesome C/C++ resources for testing.
 
 Inspired by [awesome-python-testing](https://github.com/cleder/awesome-python-testing)
 
 - [Assertions](#assertions)
-- [Behavior-driven Development](#behavior-driven-development)
+- [TDD/ATDD/BDD](#behavior-driven-development)
 - [Code Coverage](#code-coverage)
 - [Design by Contract](#design-by-contract)
 - [Load Testing](#load-testing)
@@ -27,7 +27,7 @@ Inspired by [awesome-python-testing](https://github.com/cleder/awesome-python-te
 
 - Bla-bla.
 
-## Behavior-driven Development
+## TDD/ATDD/BDD
 
 - Bla-bla.
 
@@ -103,7 +103,8 @@ Inspired by [awesome-python-testing](https://github.com/cleder/awesome-python-te
 
 ### Books
 
-- Bla-bla.
+- [Modern C++ Programming with Test-Driven Development](https://pragprog.com/titles/lotdd/modern-c-programming-with-test-driven-development) (Pragmatic Bookshelf)
+- [Test-Driven Development for Embedded C](https://pragprog.com/titles/jgade/test-driven-development-for-embedded-c) (Pragmatic Bookshelf)
 
 ### Related
 
