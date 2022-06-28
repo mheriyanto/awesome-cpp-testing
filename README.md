@@ -35,6 +35,8 @@ Inspired by [awesome-python-testing](https://github.com/cleder/awesome-python-te
 
 - [Dextool](https://github.com/joakim-brannstrom/dextool) - a framework for writing plugins using libclang. The main focus is tools for testing and static analysis.
 - [MuCPP](https://ucase.uca.es/mucpp/#:~:text=MuCPP%20is%20a%20mutation%20testing,applied%20using%20the%20Clang%20compiler.) - is a mutation testing tool for the C++ programming language.
+- [mull](https://github.com/mull-project/mull) - is a practical mutation testing tool for C and C++.
+- [Mutate++](https://github.com/nlohmann/mutate_cpp) - C++ Mutation Test Environment.
 - [Mut-tools](https://cris.vtt.fi/en/publications/mut-tools-mutation-testing-for-cc-programs) - mutation testing for C/C++ programs.
 
 ## Performance Testing
