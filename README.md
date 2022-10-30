@@ -26,6 +26,11 @@ Inspired by [awesome-python-testing](https://github.com/cleder/awesome-python-te
 
 - [Parasoft Jtest](https://parasoft.force.com) - provides a suite of testing tools for a variety of purposes like load testing, security testing, and more.
 
+## Memory Management
+
+- [Memcheck by Valgrind](https://valgrind.org) - is an instrumentation framework for building dynamic analysis tools. 
+- [MemPro](https://www.puredevsoftware.com/mempro/index.htm) - is a C++ memory profiler.
+
 ## Mock and Stub
 
 - [CppUTest](https://github.com/cpputest/cpputest) - unit testing and mocking framework for C/C++.
