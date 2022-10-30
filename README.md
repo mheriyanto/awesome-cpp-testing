@@ -28,6 +28,7 @@ Inspired by [awesome-python-testing](https://github.com/cleder/awesome-python-te
 
 ## Memory Management
 
+- [Deleaker](https://www.deleaker.com) - is an extension for all major IDEs and a standalone application for memory leak detection - memory, GDI, and handles so far.
 - [Dmalloc](https://dmalloc.com) - debug malloc library.
 - [Memcheck by Valgrind](https://valgrind.org) - is an instrumentation framework for building dynamic analysis tools. 
 - [MemPro](https://www.puredevsoftware.com/mempro/index.htm) - is a C++ memory profiler.
