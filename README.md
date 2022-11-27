@@ -89,3 +89,4 @@ Inspired by [awesome-python-testing](https://github.com/cleder/awesome-python-te
 - [Awesome C++](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things.
 - [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp#testing) - A collection of resources on modern C++.
 - [C# test automation](https://github.com/atinfo/awesome-test-automation/blob/master/c%23-test-automation.md) - A comprehensive curated list of C# test automation frameworks, tools, libraries and software to help software engineers easily bootstrap test automation on C#.
+- [Explore C++ on kandi](https://kandi.openweaver.com/explore/c++) - Discover & find a curated list of popular libraries, trending project kits, tutorials & learning resources on kandi.
